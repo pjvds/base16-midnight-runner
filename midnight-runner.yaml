@@ -1,0 +1,18 @@
+scheme: "Midnight Runner"
+author: "Pieter Joost van de Sande"
+base00: "2a2734" # background
+base01: "312e3d" # line cursor
+base02: "a399cc" # statusline
+base03: "464257" # line numbers
+base04: "413d51" # selected line number
+base05: "757184" # foreground
+base06: "312e3d" # function bright yellow
+base07: "2a2734" #
+base08: "757184" # cyan
+base09: "e7fe71" # blue
+base0A: "efebff" # yellow
+base0B: "e7fe71" # string green
+base0C: "9ba470" # comment green
+base0D: "b7c66c" # purple
+base0E: "b4a8e6" # orange
+base0F: "e2ff52" # gray
